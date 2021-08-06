@@ -8,9 +8,7 @@ in case you need to deploy your [ear,war] file on wildfly docker container witho
 | startscript.sh | Autodeploy script on docker container |
 | wmq.jmsra.rar | MQ driver (optional)|
 | ifxjdbc.jar   | Database driver (optional)  |
-| domain.xml    | Wildfly stuff  |
-| module.xml    | Wildfly stuff  |
-| host.xml      | Wildfly stuff  |
+| domain.xml, module.xml, host.xml    | Wildfly stuff  |
 
 
 
