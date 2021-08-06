@@ -1,5 +1,7 @@
 # Docker
-in case you need to deploy your [ear,war] file on wildfly docker container without headache.
+in case you need to deploy your [ear,war] file on wildfly [domain or standalone] docker container without headache.
+
+
 
 
 | file          | Description   |
