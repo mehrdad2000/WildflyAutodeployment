@@ -20,7 +20,7 @@ http://$YOURSERVERIP:8080/login
 
 | file          | Description   |
 | ------------- | ------------- |
-| $MYAPP.war    | Your app name [ear.war]  |
+| $YOURAPPNAME.war    | Your app name [ear.war]  |
 | startscript.sh | Autodeploy script on docker container |
 | wmq.jmsra.rar | MQ driver (optional)|
 | ifxjdbc.jar   | Database driver (optional)  |
